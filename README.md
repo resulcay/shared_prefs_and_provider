@@ -1,6 +1,8 @@
 # shared_prefs_and_provider
 
-A new Flutter project.---ScreenShots---
+A new Flutter project.
+
+---ScreenShots---
 
 <img src="assets/1.png" width="300">  |  <img src="assets/2.png" width="300">  
 
